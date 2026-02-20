@@ -1,16 +1,17 @@
-## Hi there 👋
+# Claudio Sanhueza
 
-<!--
-**cgsanhueza/cgsanhueza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Civil Industrial actualmente en búsqueda de oportunidades laborales, especializándome en Ciencia de Datos y analítica aplicada. 
 
-Here are some ideas to get you started:
+Interesado en el análisis cuantitativo aplicado a finanzas, riesgo e inversión. Con conocimientos en trading e inversiones desarrollados de forma autodidacta y orientación a la toma de decisiones basada en datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+- Análisis financiero
+- Evaluación de inversiones
+- Modelos de riesgo
+- Ciencia de datos aplicada a negocios
+
+## Herramientas
+Excel | SQL | Python | Power BI | R
+
+## Actualmente
+- Especialización en Ciencia de Datos
